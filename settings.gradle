@@ -1,0 +1,2 @@
+include ':app', ':apt-annotation', ':apt-processor', ':spi-one', ':spi-interface', ':spi-two'
+rootProject.name='TestApt'
